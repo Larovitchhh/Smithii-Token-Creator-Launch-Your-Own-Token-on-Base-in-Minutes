@@ -1,0 +1,10 @@
+1. No-Code Token CreationThe Base Token Creator eliminates the need for programming expertise. Users can create a fully functional ERC20 token by filling out a simple form, making it accessible to beginners and seasoned developers alike. The process is as straightforward as selecting a blockchain, customizing token details, and deploying with a single click.2. Customizable Token ParametersUsers can personalize their token with:Name and Symbol: Define the token’s identity (e.g., “MoonCoin” with symbol “MOON”).
+Supply: Set the total token supply to suit the project’s needs.
+Decimals: Choose the number of decimal places for token divisibility (typically 18 for ERC20 tokens).
+Description and Image: Add a project description and logo to enhance branding.
+
+3. Advanced FeaturesThe tool offers optional advanced settings for enhanced token functionality:Tax Options: Implement transaction fees to fund liquidity, marketing, or development.
+Airdrop Mode: Enable airdrops to distribute tokens to multiple wallets.
+Antibot and Antiwhale Protections: Prevent bots and large holders from manipulating the token’s market.
+These features are particularly useful for memecoin creators and DeFi projects aiming to build sustainable tokenomics.
+
