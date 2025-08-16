@@ -1,0 +1,12 @@
+Creating a token with Smithii’s Base Token Creator is a breeze. Here’s a step-by-step guide based on the official instructions:Visit the Tool: Go to https://tools.smithii.io/token-creator/base.
+Connect Your Wallet: Link a compatible wallet (e.g., MetaMask) to the Base network.
+Customize Your Token:Enter the token’s name and symbol.
+Define the total supply and decimal places.
+Optionally, upload a description and logo.
+Configure advanced settings like taxes, airdrop mode, or antibot features.
+
+Deploy the Token: Click “Create Token,” approve the transaction (0.01 ETH plus gas fees), and wait a few seconds.
+Receive Your Token: The newly created token will appear in your wallet, and you’ll have full ownership.
+
+For a detailed guide, Smithii provides a comprehensive tutorial at https://smithii.io/base-token-generator/.[](https://smithii.io/en/base-token-generator/)
+
